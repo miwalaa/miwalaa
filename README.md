@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Miwa Laksmana Anthony 👋</h1>
-<h3 align="center">A Passionate Self-Taught Programmer.</h3>
+<h3 align="center">Aspiring Front-End Developer.</h3>
 
 ## 🌐 Socials:
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/user:25086788) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/miwalaa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/miwa-laksmana-anthony-851a17344) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/miwamiwamiwa79) 
